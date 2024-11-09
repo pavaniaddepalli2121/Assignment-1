@@ -96,5 +96,4 @@
       theme_minimal()
     
       
-      url <- "http://www.boldsystems.org/index.php/API_Public/combined?taxon=Lepidoptera&geo=Canada&format=tsv"
       
