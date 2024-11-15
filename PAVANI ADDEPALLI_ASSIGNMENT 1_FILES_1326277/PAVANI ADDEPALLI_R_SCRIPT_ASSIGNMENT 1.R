@@ -174,10 +174,7 @@ ggplot(species_by_lat, aes(x = lat_rounded, y = num_species, fill = country)) +
 
 summary(combined_data$lat)
 
-
-# To ensure that the bin_uri column is indeed present in the combined_data dataset.
-
-# species_by_region was identified in the original script
+# species_by_region was not identified in the original script
 
 # bin_uri was not included in the original script
 
